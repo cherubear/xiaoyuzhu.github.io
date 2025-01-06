@@ -4,15 +4,15 @@
 
 ### Data Analysis Projects 
 
-[Project 1 Title](/sample_page)
+[Predicting employee turnover with tree-based machine learning models](/sample_page.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Understanding Waze app user churn problem](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Profiling fitness tracker user habits for Bellabeat](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
