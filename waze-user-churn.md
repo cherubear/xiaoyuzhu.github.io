@@ -3,7 +3,7 @@
 ## Waze Case Study
 A capstone project for Google Advanced Data Analytics Certificate program
 
-![Waze logo](https://github.com/user-attachments/assets/3b8be2fa-6df1-4a17-b1d5-4f1281066f46)
+<img src="https://github.com/user-attachments/assets/3b8be2fa-6df1-4a17-b1d5-4f1281066f46" width="200" height= />
 
 
 ### Executive Summary

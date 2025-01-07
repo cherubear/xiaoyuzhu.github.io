@@ -11,8 +11,12 @@
 ---
 [Understanding Waze app user churn problem](/waze-user-churn.md)
 
+<img src="images/waze_thumbnail.png?raw=true"/>
+
 ---
 [Profiling fitness tracker user habits for Bellabeat](/bellabeat.md)
+
+<img src="images/bellabeat_thumbnail.png?raw=true"/>
 
 ---
 
