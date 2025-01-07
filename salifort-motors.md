@@ -1,5 +1,25 @@
+[◄ Go Back](https://xiaoyuzhu76.github.io)
+
 ## Salifort Motors: Predict and Improve Employee Retention
 A capstone project for Google Advanced Data Analytics Certificate program
+
+### Table of Contents
+
+* [Executive summary](#executive-summary)
+* [Overview](#overview)
+    * [About the company](#about-the-company)
+    * [Business case](#business-case)
+* [Pre-analysis reflection](#pre-analysis-reflection)
+* [Exploratory data analysis](#exploratory-data-analysis)
+    * [Data dictionary](#data-dictionary)
+    * [Inspecting the data](#inspecting-the-data)
+    * [Key findings](#key-findings)
+* [Model construction and selection](#model-construction-and-selection)
+    * [Logistic regression model](#logistic-regression-model)
+    * [Random forest with cross validation](#random-forest-with-cross-validation)
+    * [Extreme gradient boosting (XGB)](#extreme-gradient-boosting-xgb)
+    * [Model selection](#model-selection)
+* [Conclusion](#conclusion)
 
 ### Executive Summary
 
@@ -23,7 +43,7 @@ If Salifort could predict whether an employee will leave the company, and discov
 
 As a first step, the leadership team asks Human Resources to survey a sample of employees to learn more about what might be driving turnover. As a data specialist working for Salifort Motors, I have received the results of a recent employee survey. The senior leadership team has asked to analyze the data to come up with ideas for how to increase employee retention. To help with this, I am asked to design a model that predicts whether an employee will leave the company based on their department, number of projects, average monthly hours, and any other data points that may be helpful. A good model will help the company increase retention and job satisfaction for current employees, and save money and time training new employees. 
 
-### Reflection before analysis
+### Pre-Analysis Reflection
 
 The primary stakeholder of the project is leadership team of Salifort. The HR department is also an important stakeholder. On one hand, they designed and implemented the survey, and will be an important resource for us to gain business insights. On the other hand, HR department is also a critical player in the execution if any findings from our analyses result in business actions. 
 
@@ -136,4 +156,4 @@ With an XGBoost model, we can identify employees who will likely leave the compa
 * **Satisfaction**: Confirming our findings in EDA, satisfaction level has a direct relationship to employee turnover. However, when an employee is already dissatisfied, it may be too late. It is also a very complex and comprehensive indicator, because it could be linked to a lot of different aspects in workplace, e.g. safety, recognition, financial return, etc. This may explain why work accidents and promotion do not rank high in feature importance - does not mean they are not important! HR department need to continue monitor employee satisfaction, and gain more insights as to why are employees satisfied or dissatisfied.
 
 
-[<<< Go Back](https://xiaoyuzhu76.github.io)
+[◄ Go Back](https://xiaoyuzhu76.github.io)
