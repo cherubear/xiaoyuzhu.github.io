@@ -1,4 +1,4 @@
-[◄ Go Back](https://xiaoyuzhu76.github.io)
+[◄ Go Back](https://xiaoyuzhu76.github.io) | **Data Analysis Projects**
 
 ## Salifort Motors: Predict and Improve Employee Retention
 A capstone project for Google Advanced Data Analytics Certificate program

@@ -9,10 +9,10 @@
 <img src="images/salifort_motors_thumbnail.png?raw=true"/>
 
 ---
-[Understanding Waze app user churn problem](/pdf/sample_presentation.pdf)
+[Understanding Waze app user churn problem](/waze-user-churn.md)
 
 ---
-[Profiling fitness tracker user habits for Bellabeat](http://example.com/)
+[Profiling fitness tracker user habits for Bellabeat](/bellabeat.md)
 
 ---
 
