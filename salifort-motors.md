@@ -134,3 +134,6 @@ With an XGBoost model, we can identify employees who will likely leave the compa
 * **Workload**: A significant number of employees are working more than 40 hours a week, and those who worked most have all left the company. Is the workload reasonable? Should we hire more workers? Is the goal or KPI well defined so that everyone is working efficiently? Is there adequate training or process improvement that can reduce everyone's hours?
 * **Recognition**: It goes without saying that hardwork should be rewarded with recognition, financially and non-financially.
 * **Satisfaction**: Confirming our findings in EDA, satisfaction level has a direct relationship to employee turnover. However, when an employee is already dissatisfied, it may be too late. It is also a very complex and comprehensive indicator, because it could be linked to a lot of different aspects in workplace, e.g. safety, recognition, financial return, etc. This may explain why work accidents and promotion do not rank high in feature importance - does not mean they are not important! HR department need to continue monitor employee satisfaction, and gain more insights as to why are employees satisfied or dissatisfied.
+
+
+[<<< Go Back](https://xiaoyuzhu76.github.io)

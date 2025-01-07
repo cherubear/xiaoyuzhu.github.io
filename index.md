@@ -6,17 +6,13 @@
 
 [Predicting employee turnover with tree-based machine learning models](/salifort-motors.md)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/salifort_motors_thumbnail.png?raw=true"/>
 
 ---
 [Understanding Waze app user churn problem](/pdf/sample_presentation.pdf)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 [Profiling fitness tracker user habits for Bellabeat](http://example.com/)
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
