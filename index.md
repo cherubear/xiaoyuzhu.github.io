@@ -4,7 +4,7 @@
 
 ### Data Analysis Projects 
 
-[Predicting employee turnover with tree-based machine learning models](/sample_page.md)
+[Predicting employee turnover with tree-based machine learning models](/salifort-motors.md)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
